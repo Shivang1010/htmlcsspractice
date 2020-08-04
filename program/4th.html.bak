@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <header><title><h1>MAggie BOOK</h1></title></header> 
+ </head>
+ <hr></hr>
+  <br></br>
+ <center><body>
+ <h1><b>What is maggie</b></h1>
+ <p>
+Maggi is an international brand of seasonings, instant soups, and noodles that originated in Switzerland in late 19th century. The Maggi company was acquired by Nestlé in 1947.<br></br>
+Maggi instant noodles are popular in Bangladesh, Pakistan, Singapore, Malaysia, Australia, New Zealand, and India. Nestle has 39% market share in Malaysia, where "Maggi" is synonymous with instant noodles, and had 90% market share in India prior to a nationwide ban by the Food Safety and Standards Authority of India. Following the ban, the market share was reduced to 53% in India. In Malaysia, fried noodles made from Maggi noodles are called Maggi goreng. Maggi Instant noodles are branded as "Maggi 2 Minute Noodles" in Australia and New Zealand.
+<br></br>
+In India, Maggi Masala noodles carry a green dot, meaning they are specifically formulated to serve vegetarians. However, Maggi chicken noodles carry a red dot, indicating that they are not vegetarian. This special formulation is not available in other countries, unless imported from India.
+
+ </p>
+ <h1> ingredients needed</h1>
+  <ul>
+	<li>Maggie Packet</li>
+	<li>Salt</li>
+	<li>water</li>
+		<li>peas</li>
+			<li>tomato</li>
+  </ul>
+  <h2>Steps</h2>#steps for making maggie
+  <ol>
+	<li>Boil Water</li>
+	<li>Add Maggie masala to it</li>
+		<li> add peas and tomatoa to it</li>
+			<li>ad salt to it</li>
+				<li>wait for sometime and maggie is cooked</li>
+  </ol>
+  
+  <ol>
+  <h1>SOme Emojis </h1>
+  <li> <h4 id="emoji">🍅 </h4></li>
+  <li> <h4 id="emoji">🥕 </h4></li>
+  <li> <h2 id="emoji"> 😁</h2></li>
+  <li> <h2 id="emoji"> 😍</h2></li>
+  <li> <h3 id="emoji"> 🕴️</h3></li>
+  </ol>
+
+  <p>
+  Maggi seasoning is a food flavor enhancer, invented in Switzerland and introduced in Germany that comes in a thin, concentrated dark brown liquid, powder, and cube form. ... Maggi is a product that is used all over the world. In Africa and in the Middle East, it is used mainly in its cube form.
+  Julius Michael Johannes Maggi (9 October 1846 – 19 October 1912) was a Swiss entrepreneur, inventor of precooked soups and Maggi sauce. He was the youngest of five children of Michael Maggi, an immigrant from Italy, and his Swiss wife Sophie.
+  </p>
+
+<ul>
+<li><a href="https://www.allrecipes.com/recipes/1873/world-cuisine/asian/indian/main-dishes/curry/?internalSource=hub%20nav&referringId=17136&referringContentType=Recipe%20Hub&linkName=hub%20nav%20daughter&clickId=hub%20nav%202">Dish 1</a></li>
+<li><a href="https://www.allrecipes.com/recipes/1878/world-cuisine/asian/indian/main-dishes/chicken/?internalSource=hub%20nav&referringId=17136&referringContentType=Recipe%20Hub&linkName=hub%20nav%20daughter&clickId=hub%20nav%202">Dish 2</a></li>
+<li><a href="https://www.allrecipes.com/recipe/153829/italian-wedding-cake-martini/?internalSource=rotd&referringId=17551&referringContentType=Recipe%20Hub">Dish 3</a></li>
+<li><a href="https://www.allrecipes.com/recipe/231374/risotto-with-truffle-and-parmesan/?internalSource=streams&referringId=1792&referringContentType=Recipe%20Hub&clickId=st_trending_b">Dish 4</a></li>
+<li><a href="https://www.allrecipes.com/recipe/241426/lebanese-radish-salad/?internalSource=streams&referringId=1824&referringContentType=Recipe%20Hub&clickId=st_trending_b">Dish 5</a></li>
+</ul>
+
+<h1>The audio element</h1>
+
+<p>Click on the play button to play a sound:</p>
+
+<audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<h1>The video element</h1>
+
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+<hr></hr>
+<form method="post" action="">
+	<table>
+<tr>
+	<td>user<input type="text" name="u"></td>
+	<td>pass<input type="text" name="p"></td>
+</tr>
+
+</table>
+
+</form><h1>The canvas element</h1>
+
+<canvas id="myCanvas">Your browser does not support the HTML5 canvas tag.</canvas>
+
+<script>
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+ctx.fillStyle = "#FF0000";
+ctx.fillRect(0, 0, 80, 100);
+</script>
+</body>
+</center>
+</html>
